@@ -1,6 +1,6 @@
 # Doug Manis writing samples
 
-I am a technical writer based in Seattle, Washington. I write user guides, API specifications, field guides, and other software documentation. I collaborate well with customers, engineers, product owners, and field support staff. I have experience establishing publishing processes and integrating the technical writing work into the main software development process. Documents are first-class features of the product; I treat them that way. 
+I am a technical writer based in Seattle, Washington. I write user guides, API specifications, field guides, and other software documentation. I collaborate well with customers, engineers, product owners, and field support staff. I have experience establishing publishing processes and integrating the technical writing work into the main software development process. Documents are first-class features of the product; I treat them that way.
 
 ## My story
 
