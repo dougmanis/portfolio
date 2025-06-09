@@ -39,10 +39,18 @@ Our publishing process looked like this:
 1. Repeat with each product increment until the full documentation set is delivered.
 1. Define maintenance tasks to be considered for future increments.
 
-### API reference for Mythos REST APIs
+### API reference for fleet management REST APIs
 
-### User Guide a vehicle fleet management service
 
-[Help Desk chapter of the Fleet Admin Portal User Guide](docs/Fleet%20Admin%20Portal%20User%20Guide%20-%20Help%20Desk.docx) (.docx)
 
-This sample is a chapter from a larger User Guide for a cloud based UI to manage fleets of commercial vehicles. Fleet operators use the service to update vehicle software, gather driving behavior, and inspect a given vehicle's health status and software versions.
+### Fleet Admin Portal User Guide
+
+The following samples are from a larger User Guide for a cloud based UI to manage fleets of commercial vehicles. Fleet operators use the service to update vehicle software, gather driving behavior, and inspect a given vehicle's health status and software versions.
+
+[Help Desk chapter](docs/Fleet%20Admin%20Portal%20User%20Guide%20-%20Help%20Desk.docx) (.docx)
+
+This sample describes a Help Desk feature that reports the health and configuration of a given vehicle. Field support staff use the Help Desk to investigate troubled vehicles.
+
+[Software Package Format appendix](docs/Fleet%20Admin%20Portal%20User%20Guide%20-%20sw%20package%20format.docx) (.docs)
+
+When a new software version is available for a vehicle, a fleet operator uploads a software package to the fleet management system. This sample describes the very specific format that the software package must match.
