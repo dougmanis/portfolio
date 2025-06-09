@@ -13,7 +13,7 @@ I am available to write your documents. Contact me at:
 
 ### [API reference for Flexigift Service](https://dougmanis.github.io/flexigift-service/)
 
-This is an [API regerence](https://dougmanis.github.io/flexigift-service/) for the Flexigift gift card management service, a fictional product that allows users to spend their third-party gift cards directly at their Amazon.com shopping carts.
+This is an [API reference](https://dougmanis.github.io/flexigift-service/) for the Flexigift gift card management service, a fictional product that allows users to spend their third-party gift cards directly at their Amazon.com shopping carts.
 
 [Learn about my writing process](flexigift.md) and authoring tools.
 
