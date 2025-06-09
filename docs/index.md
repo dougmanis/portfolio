@@ -1,3 +1,1 @@
-# Doug Manis 
-
-
+# docs home
