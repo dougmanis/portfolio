@@ -6,8 +6,8 @@ My name is Doug Manis, I am a technical writer in the Seattle area with over 20 
 
 I am available to write your documents. Contact me at:
 
-+ dougmanis@gmail.com
-+ https://www.linkedin.com/in/dougmanis/
++ <dougmanis@gmail.com>
++ <https://www.linkedin.com/in/dougmanis/>
 
 ## Writing Samples
 
@@ -15,10 +15,9 @@ I am available to write your documents. Contact me at:
 
 This is an [API reference](https://dougmanis.github.io/flexigift-service/) for the Flexigift gift card management service, a fictional product that allows users to spend their third-party gift cards directly at their Amazon.com shopping carts.
 
-Read the [published documents](https://dougmanis.github.io/flexigift-service/).
-Review the [source code in Github](https://github.com/dougmanis/flexigift-service).
-
-[Learn about my writing process](flexigift.md) and authoring tools.
++ Read the [published documents](https://dougmanis.github.io/flexigift-service/).
++ Review the [source code in Github](https://github.com/dougmanis/flexigift-service).
++ [Learn about my writing process](flexigift.md) and authoring tools.
 
 ### Fleet Admin Portal User Guide
 
