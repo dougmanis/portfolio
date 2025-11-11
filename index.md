@@ -23,7 +23,7 @@ This is an [API reference](https://dougmanis.github.io/flexigift-service/) for t
 
 The following sample is from a larger specification for a REST API to manage a fleet of commercial vehicles. It is a companion document to the Admin Portal User Guide example below.
 
-[Help Desk service chapter (pdf)](docs/Fleet%20Admin%20REST%20API%20-%20Help%20Desk.pdf)
+[Help Desk service chapter](docs/Fleet%20Admin%20REST%20API%20-%20Help%20Desk.pdf) (PDF)
 
 ### Fleet Admin Portal User Guide
 
