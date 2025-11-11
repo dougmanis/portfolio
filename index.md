@@ -19,6 +19,12 @@ This is an [API reference](https://dougmanis.github.io/flexigift-service/) for t
 + Review the [source code in Github](https://github.com/dougmanis/flexigift-service).
 + [Learn about my writing process](flexigift.md) and authoring tools.
 
+### Fleet Admin REST API Specification
+
+The following sample is from a larger specification for a REST API to manage a fleet of commercial vehicles. It is a companion document to the Admin Portal User Guide example below.
+
+[Help Desk service chapter (pdf)](docs/Fleet%20Admin%20REST%20API%20-%20Help%20Desk.pdf)
+
 ### Fleet Admin Portal User Guide
 
 The following samples are from a larger User Guide for a cloud based UI to manage fleets of commercial vehicles. Fleet operators use the service to update vehicle software, gather driving behavior, and inspect a given vehicle's health status and software versions.
